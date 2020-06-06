@@ -1,6 +1,6 @@
 # hello-world
 just anather repository
 
-Hi iedereen. (Dutsh)
+Hi iedereen. (Dutsch)
 
 Oke dit is voor mij nieuw .
